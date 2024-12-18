@@ -4,9 +4,9 @@ SolRPDS is a Solana rug pull dataset derived from 3.69 billion blockchain transa
 
 If you use the dataset, please cite: 
 
-Citation:
-(Citation format will be provided soon.)
+### Citation:
 
+_(Citation format will be available soon.)_
 
 
 
