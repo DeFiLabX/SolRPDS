@@ -7,7 +7,7 @@ If you use the dataset, please cite:
 ### Citation:
 
 
-Abdulrahman Alhaidari, Bhuvanesh Kalal, Balaji Palanisamy, and Sukumar Sural. 2025. SolRPDS: A Dataset for Analyzing Rug Pulls in Solana Decentralized Finance. In Proceedings of the 15th ACM Conference on Data and Application Security and Privacy (CODASPY '25). ACM, New York, NY, USA. (To appear)
+Abdulrahman Alhaidari, Bhavani Kalal, Balaji Palanisamy and Shamik Sural. 2025. SolRPDS: A Dataset for Analyzing Rug Pulls in Solana Decentralized Finance. In Proceedings of the 15th ACM Conference on Data and Application Security and Privacy (CODASPY '25). ACM, New York, NY, USA. (To appear)
 
 
 ## License
