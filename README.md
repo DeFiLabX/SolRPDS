@@ -11,6 +11,9 @@ _Alhaidari, A., Kalal, B., Palanisamy, B., Sural, S.: Solrpds: A dataset for ana
 
 
 
+## BibTex
+
+
 @inproceedings{alhaidari2024solrpds,
   title={SolRPDS: A Dataset for Analyzing Rug Pulls in Solana Decentralized Finance},
   author={Alhaidari, Abdulrahman and Kalal, Bhavani and Palanisamy, Balaji and Sural, Shamik},
